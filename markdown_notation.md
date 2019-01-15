@@ -202,3 +202,12 @@ https://google.com/
 <https://google.com/>  
 [google](https://google.com/)
 
+## コメントアウト
+HTMLのコメントアウトが使える。
+~~~
+<!-- 
+複数行
+コメントアウト
+できる。
+-->
+~~
